@@ -20,9 +20,7 @@ class CalculatorViewController: UIViewController {
     var splitNumber = 2
     var billTotal = 0.0
     var billResult = "0.0"
-   
-
-    
+       
     @IBAction func tipChanged(_ sender: UIButton) {
         //zeroPctButton.isSelected = true
         //tenPctButton.isSelected = true
